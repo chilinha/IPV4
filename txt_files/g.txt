@@ -70,6 +70,7 @@ WN宁夏卫视,http://ha.xushining.com:50000/rtp/225.1.1.56:5002$天津uni+
 WX西藏卫视,http://ha.xushining.com:50000/rtp/225.1.1.51:5002$天津uni+
 WX新疆卫视,http://ha.xushining.com:50000/rtp/225.1.1.35:5002$天津uni+
 WB兵团卫视,http://ha.xushining.com:50000/rtp/225.1.1.57:5002$天津uni+
+
 数字,#genre#
 CHC家庭影院,http://ha.xushining.com:50000/rtp/225.1.1.213:5002$天津uni+
 CHC动作电影,http://ha.xushining.com:50000/rtp/225.1.1.215:5002$天津uni+
@@ -88,6 +89,7 @@ Y欢笑剧场,http://ha.xushining.com:50000/rtp/225.1.1.139:5002$天津uni+
 Y动漫秀场,http://ha.xushining.com:50000/rtp/225.1.1.134:5002$天津uni+
 Y卡酷少儿,http://coolcat.synology.me:4022/rtp/239.3.1.189:8000$北京uni+
 Y金鹰卡通,http://ha.xushining.com:50000/rtp/225.1.2.236:5002$天津uni+
+
 天津,#genre#
 Z天津新闻,http://ha.xushining.com:50000/rtp/225.1.1.130:5002$天津uni+
 Z天津文艺,http://ha.xushining.com:50000/rtp/225.1.1.131:5002$天津uni+
